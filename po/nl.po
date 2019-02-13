@@ -94,7 +94,7 @@ msgstr "Goedkeuring"
 
 #: partials/modals/confirmDeletionModal.html:16
 msgid "Are you sure you want to delete this item?"
-msgstr "Weet u zeker dat u dit item wil verwijderen?"
+msgstr "Weet u zeker dat u dit item wilt verwijderen?"
 
 #: partials/account.html:8
 msgid "Balance"
@@ -345,7 +345,7 @@ msgstr "FORGING"
 
 #: partials/modals/secondPassphraseModal.html:18
 msgid "Further protect your account with an optional second passphrase! It may take a few moments for the changes to take effect."
-msgstr "U kan uw account beter beveiligen door een tweede wachtwoordzin toe te voegen. Het kan enkele ogenblikken duren alvorens uw veranderingen zijn doorgevoerd."
+msgstr "U kunt uw account beter beveiligen door een tweede wachtwoordzin toe te voegen. Het kan enkele ogenblikken duren alvorens uw veranderingen zijn doorgevoerd."
 
 #: partials/settings.html:6
 msgid "General"
@@ -427,7 +427,7 @@ msgstr "Laatste Transacties"
 
 #: partials/account.html:36
 msgid "Latest version"
-msgstr "Laatse versie"
+msgstr "Laatste versie"
 
 #: partials/dapp-entry.html:30
 msgid "LAUNCH"
@@ -499,19 +499,19 @@ msgstr "SHIFT Verdiend"
 
 #: partials/modals/newUser.html:72
 msgid "Make sure that you keep the passphrase safe. If you lose your passphrase later on, your account can't be restored and all your funds will be lost."
-msgstr "Wees zeker dat u de wachtwoordzin veilig bewaard. Indien u uw wachtwoordzin verliest, kan uw account niet worden gebruikt en verliest u uw totale balans."
+msgstr "Wees zeker dat u de wachtwoordzin veilig bewaart. Indien u uw wachtwoordzin verliest, kan uw account niet worden gebruikt en verliest u uw totale balans."
 
 #: partials/modals/newUser.html:31
 msgid "Make sure that you keep the passphrase safe. You will be asked to re-type it for confirmation."
-msgstr "Wees zeker dat u de wachtwoordzin veilig bewaard. U zal worden gevraagd om deze opnieuw te typen ter bevestiging."
+msgstr "Wees zeker dat u de wachtwoordzin veilig bewaart. U zal worden gevraagd om deze opnieuw te typen ter bevestiging."
 
 #: partials/modals/secondPassphraseModal.html:77
 msgid "Make sure that you keep the second passphrase safe. If you lose your second passphrase later on, your account can't be restored and all your funds will be lost."
-msgstr "Wees zeker dat u de tweede wachtwoordzin veilig bewaard. Indien u uw tweede wachtwoordzin verliest, kan uw account niet worden gebruikt en verliest u uw totale balans."
+msgstr "Wees zeker dat u de tweede wachtwoordzin veilig bewaart. Indien u uw tweede wachtwoordzin verliest, kan uw account niet worden gebruikt en verliest u uw totale balans."
 
 #: partials/modals/secondPassphraseModal.html:35
 msgid "Make sure that you keep the second passphrase safe. You will be asked to re-type it for confirmation."
-msgstr "Wees zeker dat u de tweede wachtwoordzin veilig bewaard. U zal worden gevraagd om deze opnieuw te typen ter bevestiging."
+msgstr "Wees zeker dat u de tweede wachtwoordzin veilig bewaart. U zal worden gevraagd om deze opnieuw te typen ter bevestiging."
 
 #: partials/modals/sendTransaction.html:41
 msgid "Make sure you're sending SHIFT to the right address. This action can't be undone later."
@@ -660,7 +660,7 @@ msgstr "Bevestig alstublieft uw selectie en uw stem."
 
 #: partials/modals/addDappModal.html:111
 msgid "Please ensure all details are correct before confirming your blockchain application."
-msgstr "Wees alstublieft zeker dat alle details correct zijn voordat u uw blockchain applicatie bevestigd."
+msgstr "Wees alstublieft zeker dat alle details correct zijn voordat u uw blockchain applicatie bevestigt."
 
 #: js/controllers/modals/masterPassphraseModalController.js:8
 msgid "Please enter the master passphrase for this node."
@@ -668,7 +668,7 @@ msgstr "Voer alstublieft de master wachtwoordzin voor deze node in."
 
 #: partials/modals/sendTransaction.html:15
 msgid "Please enter the Recipient Address and SHIFT Amount that you would like send below."
-msgstr "Voer alstublieft het adres van de ontvanger en het aantal SHIFT dat je wil verzenden hieronder in."
+msgstr "Voer alstublieft het adres van de ontvanger en het aantal SHIFT dat u wilt verzenden hieronder in."
 
 #: partials/modals/addDappModal.html:142 partials/modals/forgingModal.html:16
 #: partials/modals/registrationDelegateModal.html:53
@@ -705,7 +705,7 @@ msgstr "Voer alstublieft een link in voor uw blockchain applicatie."
 
 #: partials/modals/newUser.html:60
 msgid "Please re-enter your passphrase below."
-msgstr "Voer je wachtwoordzin alstublieft opnieuw in."
+msgstr "Voer uw wachtwoordzin alstublieft opnieuw in."
 
 #: partials/modals/secondPassphraseModal.html:64
 msgid "Please re-enter your second passphrase below."
@@ -932,11 +932,11 @@ msgstr "Het Shift applicatie platform biedt momenteel nog geen ondersteuning teg
 
 #: partials/modals/masterPassphraseModal.html:30
 msgid "The master passphrase is auto-generated upon first launching the Shift client. It can be found at the end of the config.json file. Therefore only node operators can install, launch or uninstall applications. Once applications are in a launched state, anyone is free to open and use them."
-msgstr "De master wachtwoordzin is automatisch gegenereerd bij het eerst opstarten van de Shift cliënt. Deze kan worden teruggevonden op het einde van het config.json bestand. Hierdoor kunnen enkel node operatoren een applicatie installeren, opstaren of verijwderen. Eens dat applicaties in hun draaiende staat zijn, is iedereen vrij om deze te openen en te gebruiken."
+msgstr "De master wachtwoordzin is automatisch gegenereerd bij het eerst opstarten van de Shift cliënt. Deze kan worden teruggevonden op het einde van het config.json bestand. Hierdoor kunnen enkel node operatoren een applicatie installeren, opstaren of verwijderen. Eens dat applicaties in hun draaiende staat zijn, is iedereen vrij om deze te openen en te gebruiken."
 
 #: partials/modals/newUser.html:68
 msgid "The passphrase entered doesn't match with the one generated before. Please go back and generate a new one."
-msgstr "De ingevoerde wachtwoordzin komt niet overeen met diegene die eerder is gegenereerd. Ga alstublief terug en genereer een nieuwe."
+msgstr "De ingevoerde wachtwoordzin komt niet overeen met diegene die eerder is gegenereerd. Ga alstublieft terug en genereer een nieuwe."
 
 #: partials/modals/secondPassphraseModal.html:72
 msgid "The second passphrase entered doesn't match with the one generated before. Please go back and generate a new one."
@@ -944,7 +944,7 @@ msgstr "De tweede wachtwoordzin komt niet overeen met diegene die eerder is gege
 
 #: partials/modals/multisignatureModal.html:21
 msgid "This walkthrough will guide you through the necessary steps to create a multi-signature group. It's very important that you know what multi-signatures are, else you risk loosing your SHIFT balance.<br><br>A multi-signature group consists of N accounts, the one who created the group is the group owner. When the owner wants to make a transaction, M of N accounts within the group need to confirm it, otherwise the transaction will not be processed. The values M and N are specified in this walkthrough.<br><br><b>Things you need to know for the multi-signature group setup:</b><br><br>• The number of group members (N).<br>• The number of needed confirmations (M).<br>• The addresses of the Shift accounts you want to add to the group."
-msgstr "Deze walkthrough zal u gidsen door de nodige stappen om een multi-signature groep aan te maken. Het is zeer belangrijk dat u weet wat multi-signatures zijn, anders loopt u kans om uw gehele SHIFT balans te verliezen. <br><br>Een multi-signature groep bestaat uit N accounts, diegene die de groep heeft aangemaakt is meteen ook beheerder van de groep. Wanneer de eigenaar een transactie wil maken, moeten M van de N accounts binnen de groep deze bevestigen, anders wordt de transactie niet uitgevoerd. The waardes M en N worden gespecifieerd doorheen deze walkthrough.<br><br><b>Dingen die u moet weten voor de multi-signature groep op te zetten:</b><br><br>• Het aantal groepsleden (N).<br>• Het aantal benodigde bevestigingen (M).<br>• De adressen van de Shift profielen die u aan de groep wil toevoegen."
+msgstr "Deze walkthrough zal u gidsen door de nodige stappen om een multi-signature groep aan te maken. Het is zeer belangrijk dat u weet wat multi-signatures zijn, anders loopt u kans om uw gehele SHIFT balans te verliezen. <br><br>Een multi-signature groep bestaat uit N accounts, diegene die de groep heeft aangemaakt is meteen ook beheerder van de groep. Wanneer de eigenaar een transactie wil maken, moeten M van de N accounts binnen de groep deze bevestigen, anders wordt de transactie niet uitgevoerd. De waardes M en N worden benoemd in deze walkthrough.<br><br><b>Dingen die u moet weten om de multi-signature groep op te zetten:</b><br><br>• Het aantal groepsleden (N).<br>• Het aantal benodigde bevestigingen (M).<br>• De adressen van de Shift profielen die u aan de groep wilt toevoegen."
 
 #: js/controllers/blockchainController.js:43
 #: js/controllers/forgingController.js:116
@@ -1051,7 +1051,7 @@ msgstr "U kunt uw wachtwoordzin hieronder terugvinden."
 
 #: partials/modals/vote.html:33
 msgid "You can select up to 33 delegates in one voting turn. Up to 101 delegates in total."
-msgstr "U kunt tot 33 Delegates selecteren in één stemmingsronde. In totaal kan u tot 101 delegates kiezen."
+msgstr "U kunt tot 33 Delegates selecteren in één stemmingsronde. In totaal kunt u tot 101 delegates kiezen."
 
 #: partials/dapps.html:165 partials/dapps.html:242
 msgid "You do not have any applications installed yet."
@@ -1113,7 +1113,7 @@ msgstr "Uw Tweede Wachtwoordzin"
 #~ msgstr "Dapp Store"
 
 #~ msgid "Further protect your account with an optional second passphrase! Please allow some time for the changes to take effect. Service cost: <b>{{fee | liskFilter}} SHIFT</b>. Your balance: <b>{{totalBalance | liskFilter}} SHIFT</b>."
-#~ msgstr "U kan uw account beter beveiligen met een optionele tweede wachtwoordzin! Het kan even duren voordat de veranderingen zijn verwerkt. Kosten van deze dienst: <b>{{fee | liskFilter}} SHIFT</b>. Uw balans: <b>{{totalBalance | liskFilter}} SHIFT</b>."
+#~ msgstr "U kunt uw account beter beveiligen met een optionele tweede wachtwoordzin! Het kan even duren voordat de veranderingen zijn verwerkt. Kosten van deze dienst: <b>{{fee | liskFilter}} SHIFT</b>. Uw balans: <b>{{totalBalance | liskFilter}} SHIFT</b>."
 
 #~ msgid "GET STARTED"
 #~ msgstr "BEGINNEN"
